@@ -1,4 +1,4 @@
-# Brutto - A Go HTTP Password Brute Forcing Framework
+# Brutto - A Go Framework for HTTP Password Brute Forcing 
 ### <center>FOR EDUCATIONAL AND RESEARCH USE ONLY</center>  
 
 ```
